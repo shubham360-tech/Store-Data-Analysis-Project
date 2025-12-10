@@ -1,6 +1,6 @@
-<img width="1710" height="1107" alt="Screenshot 2025-09-26 at 9 19 50 PM" src="https://github.com/user-attachments/assets/d13197d8-a1ae-4108-9bee-33b927f7f655" /># 🛍️ Vrinda Store Data Analysis Project (MS Excel Dashboard) 📊
+<img width="1710" height="1107" alt="Screenshot 2025-09-26 at 9 19 50 PM" src="https://github.com/user-attachments/assets/d13197d8-a1ae-4108-9bee-33b927f7f655" /># 🛍️ Store Data Analysis Project (MS Excel Dashboard) 📊
 
-This project presents a comprehensive sales and customer behavior analysis for the Vrinda Store, with all data cleaning, analysis, and the final interactive dashboard developed entirely within **MS Excel**.
+This project presents a comprehensive sales and customer behavior analysis for the Store, with all data cleaning, analysis, and the final interactive dashboard developed entirely within **MS Excel**.
 
 ---
 
@@ -35,9 +35,9 @@ The analysis focused on answering critical business questions using the store sa
 ---
 
 
-# 🛍️ Vrinda Store Data Analysis Project (MS Excel Dashboard) 📊
+# 🛍️ Store Data Analysis Project (MS Excel Dashboard) 📊
 
-This project presents a comprehensive sales and customer behavior analysis for the Vrinda Store, with all data cleaning, analysis, and the final interactive dashboard developed entirely within **MS Excel**.
+This project presents a comprehensive sales and customer behavior analysis for the Store, with all data cleaning, analysis, and the final interactive dashboard developed entirely within **MS Excel**.
 
 ---
 
