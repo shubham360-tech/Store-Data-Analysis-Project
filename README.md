@@ -96,4 +96,4 @@ Store-Data-Analysis-Project/
 1.  **Install/Open MS Excel:** Ensure you have Microsoft Excel installed on your computer.
 2.  **Clone/Download:** Clone this repository or download the files to your local machine.
 3.  **Open Dashboard:** Navigate to the `Data` folder and open the `Vrinda_Store_Analysis_Dashboard.xlsx` file.
-4.  **Interact:** Utilize the slicers, filters, and pivot table controls embedded within the Excel sheet to explore data dynamically (e.g., filter sales by month, gender, or state).
+4.  **Interact:** Utilize the slicers, filters, and pivot table controls embedded within the Excel sheet to explore data dynamically (e.g., filter sales by month, gender or state).
