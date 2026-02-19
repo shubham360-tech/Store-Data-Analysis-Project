@@ -77,8 +77,8 @@ The repository is organized to clearly separate the raw data, the cleaned data, 
 
 Store-Data-Analysis-Project/
 ├── Data/
-│   ├── Vrinda_Store_Raw_Data.xlsx # The original, unprocessed sales dataset.
-│   └── Vrinda_Store_Analysis_Dashboard.xlsx # The final Excel file containing cleaned data, pivot tables, and the dashboard.
+│   ├── Store_Raw_Data.xlsx # The original, unprocessed sales dataset.
+│   └── Store_Analysis_Dashboard.xlsx # The final Excel file containing cleaned data, pivot tables, and the dashboard.
 └── README.md
 
 
@@ -87,6 +87,7 @@ Store-Data-Analysis-Project/
 ## 📈 Dashboard Preview
 
 
+![Uploading Screenshot 2026-02-19 at 10.11.28 PM.png…]()
 *(Place a clear screenshot of your final Excel Dashboard here. The image you uploaded appears to be a good candidate for this spot.)*
 
 ---
