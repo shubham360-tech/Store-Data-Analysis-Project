@@ -87,7 +87,7 @@ Store-Data-Analysis-Project/
 ## 📈 Dashboard Preview
 
 
-![Uploading Screenshot 2026-02-19 at 10.11.28 PM.png…]()
+
 *(Place a clear screenshot of your final Excel Dashboard here. The image you uploaded appears to be a good candidate for this spot.)*
 
 ---
